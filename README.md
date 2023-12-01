@@ -3,3 +3,4 @@
 Name: Bennett Sellers
 Major: Computer Science & Psychology
 What I had for lunch: nothing
+TGIF
